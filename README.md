@@ -2,6 +2,7 @@
 - 👀 I’m interested in html, css and unity.
 - 🌱 I’m currently learning unity, html and css
 - 💞️ I’m looking to collaborate on building an operaing system
+Some of my other interests include photography, gaming and cycling.
 <!---
 - 📫 You can reach me at
 
