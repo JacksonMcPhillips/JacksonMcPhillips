@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dodgydog08 or Jackson.
 - 👀 I’m interested in html and css.
-- 💞️ Some of my other interests include photography, gaming and cycling.
-- <!---
+- 💞️ Some of my other interests include photography and gaming.
+<!---
 - 🌱 I’m currently learning html and css
 Some of my other interests include photography, gaming and cycling.
 - 📫 You can reach me at
